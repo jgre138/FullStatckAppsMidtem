@@ -1,0 +1,36 @@
+Hello!
+
+All of the files required are inside this project folder
+    - The ER Diagrams and the data for the database are all located in the data folder.
+        - The Er diagram files + pdf
+        - sql files: One forward engineered from mySQL Workbench (empty besides structure) and one from phpMyAdmin with my data in it.
+    - Outside of all the folders is this file, the presentation file, and my project report.
+        - This file contains the logins used, as are written below.
+
+        
+
+Here are the logins that I used in my project, including the one that I added during my demo in class
+I used characters from one of my favorite games.
+
+Apollo Justice -- 
+--Email : aJustice@waa.com
+--Pass: Objection!
+
+Klavier Gavin --
+--Email: kGavin@jppo.com
+--Pass: GuiltyLove!
+
+Trucy Wright --
+--Email: tWright@waa.com
+--Pass: MagicalGirl!
+
+Demo Member ----
+John Code --
+--Email: jcode@gmail.com
+--Pass:Jcode!
+
+
+Note to self:
+Midterm data is called "studentregistrations"
+Final Data is called "bookclub"
+this is for phpMyAdmin
